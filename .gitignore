@@ -1,0 +1,15 @@
+# Submission path budget: generated dependencies at every depth = 0 Git bytes.
+**/node_modules/
+# Generated bundler and package caches at every depth = 0 Git bytes.
+**/.vite/
+**/.cache/
+**/.npm/
+**/*.tsbuildinfo
+# Local browser output and disposable validation = 0 Git bytes.
+/.playwright-mcp/
+/test/scratch/
+# dist/ is REQUIRED. Explicit budget: <= 3 MiB; never ignore the static export.
+# Source and public/ assets: <= 3 MiB; manifests/docs/artifacts: <= 2 MiB.
+# Total maximum submission budget: 8 MiB. See artifacts/validation.md.
+!/artifacts/
+!/artifacts/**

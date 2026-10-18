@@ -1,0 +1,7 @@
+{
+  "snapshotDate": "2026-10-18",
+  "capturedAt": "2026-10-18T17:02:34Z",
+  "method": "Curated public post summaries; captured metrics via FxTwitter mirror, not live or exhaustive.",
+  "verificationLimitations": "Direct X requests returned HTTP 403. Author identity, text, dates and counts were retrieved through the public FxTwitter mirror rather than an authenticated X API.",
+  "sourceApiPattern": "https://api.fxtwitter.com/{handle}/status/{id}"
+}

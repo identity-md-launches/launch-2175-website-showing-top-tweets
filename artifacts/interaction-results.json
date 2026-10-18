@@ -1,0 +1,135 @@
+{
+  "urlPath": "/preview/",
+  "results": [
+    {
+      "name": "Subpath loads four initial posts and all local assets",
+      "passed": true
+    },
+    {
+      "name": "390px first screen identifies IdentityMD and shows primary action",
+      "passed": true
+    },
+    {
+      "name": "Local display and body fonts load",
+      "passed": true
+    },
+    {
+      "name": "Share metadata and linked image/favicon exist",
+      "passed": true
+    },
+    {
+      "name": "Load more reveals all eight posts",
+      "passed": true
+    },
+    {
+      "name": "Building category filters correctly",
+      "passed": true
+    },
+    {
+      "name": "Community category filters correctly",
+      "passed": true
+    },
+    {
+      "name": "Ideas category filters correctly",
+      "passed": true
+    },
+    {
+      "name": "Search matches summaries, people and topics",
+      "passed": true
+    },
+    {
+      "name": "Empty search offers working clear filters recovery",
+      "passed": true
+    },
+    {
+      "name": "newest sort uses the expected captured field",
+      "passed": true
+    },
+    {
+      "name": "discussion sort uses the expected captured field",
+      "passed": true
+    },
+    {
+      "name": "top sort uses the expected captured field",
+      "passed": true
+    },
+    {
+      "name": "Card topic and sidebar topic controls apply search",
+      "passed": true
+    },
+    {
+      "name": "Saving a post updates control, notification and Saved view",
+      "passed": true
+    },
+    {
+      "name": "Saved posts persist after reload, including direct hash navigation",
+      "passed": true
+    },
+    {
+      "name": "Unsave produces actionable empty state and Explore recovers",
+      "passed": true
+    },
+    {
+      "name": "Copy source link writes the original X URL",
+      "passed": true
+    },
+    {
+      "name": "Clipboard failure exposes and focuses a selectable link",
+      "passed": true
+    },
+    {
+      "name": "About dialog traps keyboard focus and Escape restores trigger",
+      "passed": true
+    },
+    {
+      "name": "Keyboard focus reaches Search with a visible two-pixel ring",
+      "passed": true
+    },
+    {
+      "name": "320px responsive layout, targets and accessibility scan",
+      "passed": true
+    },
+    {
+      "name": "390px responsive layout, targets and accessibility scan",
+      "passed": true
+    },
+    {
+      "name": "760px responsive layout, targets and accessibility scan",
+      "passed": true
+    },
+    {
+      "name": "1000px responsive layout, targets and accessibility scan",
+      "passed": true
+    },
+    {
+      "name": "1440px responsive layout, targets and accessibility scan",
+      "passed": true
+    },
+    {
+      "name": "About dialog automated accessibility scan",
+      "passed": true
+    },
+    {
+      "name": "200% text enlargement preserves reflow at 320, 390 and 1440px",
+      "passed": true
+    },
+    {
+      "name": "Reduced motion disables smooth scrolling and transitions",
+      "passed": true
+    },
+    {
+      "name": "Every original source link matches the data",
+      "passed": true
+    },
+    {
+      "name": "No script errors or failed local resources during flows",
+      "passed": true
+    },
+    {
+      "name": "Storage failure keeps session bookmarks usable and explains limitation",
+      "passed": true
+    }
+  ],
+  "passed": 32,
+  "failed": 0
+}
